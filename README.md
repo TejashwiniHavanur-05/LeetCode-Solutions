@@ -6,3 +6,6 @@ My LeetCode practice in Python.
 
 ## Day 2
 - #1 - Two Sum
+
+## Day 3
+-#1929 -Concatenation of Array
