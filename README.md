@@ -9,3 +9,6 @@ My LeetCode practice in Python.
 
 ## Day 3
 -#1929 -Concatenation of Array
+
+## Day 4
+-#1470 - Shuffle of array
