@@ -12,3 +12,6 @@ My LeetCode practice in Python.
 
 ## Day 4
 -#1470 - Shuffle of array
+
+## Day 5
+-# 1431 - Kids With the Greatest Number of Candies
