@@ -15,3 +15,6 @@ My LeetCode practice in Python.
 
 ## Day 5
 -# 1431 - Kids With the Greatest Number of Candies
+
+## Day 6
+-# 1672 - Richest Customer wealth
