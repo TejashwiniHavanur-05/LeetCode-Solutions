@@ -18,3 +18,6 @@ My LeetCode practice in Python.
 
 ## Day 6
 -# 1672 - Richest Customer wealth
+
+## Day 7
+-# 1486 -Operation in an Array
