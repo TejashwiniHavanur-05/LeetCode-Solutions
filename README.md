@@ -21,3 +21,6 @@ My LeetCode practice in Python.
 
 ## Day 7
 -# 1486 -Operation in an Array
+
+## Day 8 
+-#1365 - How many numbers are smaller than the current number
