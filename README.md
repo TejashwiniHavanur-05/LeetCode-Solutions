@@ -24,3 +24,6 @@ My LeetCode practice in Python.
 
 ## Day 8 
 -#1365 - How many numbers are smaller than the current number
+
+## Day 9 
+-#1475  Final Prices with a Special Discount in a shop
